@@ -1,19 +1,13 @@
 {
-  "name": "npm-font-open-sans",
+  "name": "open-sans-fonts",
   "version": "1.1.0",
   "description": "Open Sans font family - incl. usage of CSS, SCSS, LESS",
   "author": {
-    "name": "Steve Matteson"
+    "name": "Marko Maberg"
   },
-  "contributors": [
-    {
-      "name": "Enrico Hoffmann",
-      "email": "dasrick@gmail.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dasrick/npm-font-open-sans.git"
+    "url": "git+https://github.com/markomaberg/open-sans-fonts"
   },
   "keywords": [
     "font",
@@ -27,8 +21,8 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dasrick/npm-font-open-sans/issues"
+    "url": "https://github.com/markomaberg/open-sans-fonts/issues"
   },
-  "homepage": "https://github.com/dasrick/npm-font-open-sans#readme",
+  "homepage": "https://github.com/markomaberg/open-sans-fonts#readme",
   "main": "./open-sans.css"
 }
