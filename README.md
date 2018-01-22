@@ -15,7 +15,7 @@ Open Sans is a humanist sans serif typeface designed by Steve Matteson.
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i npm-font-open-sans --save
+$ npm i open-sans-fonts --save
 ```
 
 
