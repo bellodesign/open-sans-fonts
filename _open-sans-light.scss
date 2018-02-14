@@ -4,14 +4,12 @@ $FontPathOpenSans: "./fonts" !default;
   font-family: 'Open Sans';
   font-weight: 300;
   font-style: normal;
-  src: url('#{$FontPathOpenSans}/Light/OpenSans-Light.eot');
-  src: url('#{$FontPathOpenSans}/Light/OpenSans-Light.eot?#iefix') format('embedded-opentype'), url('#{$FontPathOpenSans}/Light/OpenSans-Light.woff2') format('woff2'), url('#{$FontPathOpenSans}/Light/OpenSans-Light.woff') format('woff'), url('#{$FontPathOpenSans}/Light/OpenSans-Light.ttf') format('truetype'), url('#{$FontPathOpenSans}/Light/OpenSans-Light.svg#OpenSansLight') format('svg');
+  src: url('#{$FontPathOpenSans}/Light/OpenSans-Light.woff2') format('woff2'), url('#{$FontPathOpenSans}/Light/OpenSans-Light.woff') format('woff'), url('#{$FontPathOpenSans}/Light/OpenSans-Light.ttf') format('truetype'), url('#{$FontPathOpenSans}/Light/OpenSans-Light.svg#OpenSansLight') format('svg');
 }
 
 @font-face {
   font-family: 'Open Sans';
   font-weight: 300;
   font-style: italic;
-  src: url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.eot');
-  src: url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.eot?#iefix') format('embedded-opentype'), url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.woff2') format('woff2'), url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.woff') format('woff'), url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.ttf') format('truetype'), url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.svg#OpenSansLightItalic') format('svg');
+  src: url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.woff2') format('woff2'), url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.woff') format('woff'), url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.ttf') format('truetype'), url('#{$FontPathOpenSans}/LightItalic/OpenSans-LightItalic.svg#OpenSansLightItalic') format('svg');
 }
