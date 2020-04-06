@@ -25,7 +25,7 @@ This a sample for usage in a LESS file:
 
 ```
 # part of your LESS file
-@import '../../../node_modules/npm-font-open-sans/open-sans';
+@import '../../../node_modules/open-sans-fonts/open-sans.less';
 @FontPathOpenSans: "../fonts/open-sans";
 ```
 
@@ -36,7 +36,7 @@ You can do the same with SCSS/SASS too ...
 ```
 # part of your SCSS file
 $FontPathOpenSans: "../fonts/open-sans";
-@import '../../../node_modules/npm-font-open-sans/open-sans';
+@import '../../../node_modules/open-sans-fonts/open-sans.scss';
 ```
 
 You can do the same with Stylus too ...
@@ -44,7 +44,7 @@ You can do the same with Stylus too ...
 ```
 # part of your SCSS file
 $FontPathOpenSans = "../fonts/open-sans";
-@import '../../../node_modules/npm-font-open-sans/open-sans.styl';
+@import '../../../node_modules/open-sans-fonts/open-sans.styl';
 ```
 
 
@@ -55,17 +55,17 @@ $FontPathOpenSans = "../fonts/open-sans";
 
 ## License
 
-Fonts: Licensed under [Apache 2.0](https://github.com/dasrick/npm-font-open-sans/blob/master/LICENSE)
+Fonts: Licensed under [Apache 2.0](https://github.com/dasrick/open-sans-fonts/blob/master/LICENSE)
 
 ***
 
-[github-tag-image]: https://img.shields.io/github/tag/dasrick/npm-font-open-sans.svg?style=flat-square
-[github-tag-url]: https://github.com/dasrick/npm-font-open-sans
+[github-tag-image]: https://img.shields.io/github/tag/dasrick/open-sans-fonts.svg?style=flat-square
+[github-tag-url]: https://github.com/dasrick/open-sans-fonts
 
-[npm-version-image]: https://img.shields.io/npm/v/npm-font-open-sans.svg?style=flat-square
-[npm-version-url]: https://www.npmjs.com/package/npm-font-open-sans
-[npm-downloads-image]: https://img.shields.io/npm/dm/npm-font-open-sans.svg?style=flat-square
-[npm-downloads-url]: https://www.npmjs.com/package/npm-font-open-sans
+[npm-version-image]: https://img.shields.io/npm/v/open-sans-fonts.svg?style=flat-square
+[npm-version-url]: https://www.npmjs.com/package/open-sans-fonts
+[npm-downloads-image]: https://img.shields.io/npm/dm/open-sans-fonts.svg?style=flat-square
+[npm-downloads-url]: https://www.npmjs.com/package/open-sans-fonts
 
-[license-image]: https://img.shields.io/github/license/dasrick/npm-font-open-sans.svg?style=flat-square
-[license-url]: https://github.com/dasrick/npm-font-open-sans/blob/master/LICENSE
+[license-image]: https://img.shields.io/github/license/dasrick/open-sans-fonts.svg?style=flat-square
+[license-url]: https://github.com/dasrick/open-sans-fonts/blob/master/LICENSE
