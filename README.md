@@ -43,7 +43,7 @@ You can do the same with Stylus too ...
 
 ```
 # part of your SCSS file
-$FontPathOpenSans = "../fonts/open-sans";
+$FontPathOpenSans = "open-sans/";
 @import '../../../node_modules/open-sans-fonts/open-sans.styl';
 ```
 
